@@ -3,7 +3,7 @@ from urllib.parse import urljoin
 import requests
 
 
-TOKEN = 'AQAAAAAB1WWPAASB2PIssCHDckEMl7AhtCft0eM'
+TOKEN = 'YOUR TOKEN'
 
 
 class YMBase:
